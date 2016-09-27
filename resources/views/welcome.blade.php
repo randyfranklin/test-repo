@@ -84,6 +84,41 @@
                 <div class="links">
                     <p>Coming soon!</p>
                 </div>
+                <hr />
+                <div id="topic-post">
+
+                  <div id="topic-post-content">
+                    Lorem ipsum dolor set.
+                  </div>
+                  <div id="topic-post-editor">
+
+                  </div>
+
+                </div>
+                <div id="post-replies">
+                  <div class="big-reply">
+                    <div class="big-reply-content">Lorem ipsum dolor set</div>
+
+                  </div>
+                  <div class="big-reply">
+                    <div class="big-reply-content">Lorem ipsum dolor set</div>
+                    <div class="small-replies">
+                        <div class="small-reply-content">
+                          Lorem ipsum dolor set
+                        </div>
+                    </div>
+                  </div>
+                  <div class="big-reply">
+                      <div class="big-reply-content">Lorem ipsum dolor set</div>
+                  </div>
+                  <div class="big-reply">
+                      <div class="big-reply-content">Lorem ipsum dolor set</div>
+                  </div>
+                  <div class="big-reply">
+                     <div class="big-reply-content">Lorem ipsum dolor set</div>
+                  </div>
+
+                <div>
             </div>
         </div>
     </body>
