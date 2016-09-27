@@ -65,11 +65,7 @@
         </style>
     </head>
     <body>
-    @if(DB::connection()->getDatabaseName())
-{
-   echo "Yes! successfully connected to the DB: " . DB::connection()->getDatabaseName();
-}
-@endif
+
     
     
         <div class="flex-center position-ref full-height">
