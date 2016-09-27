@@ -78,7 +78,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    WallToss
+                    Topic Post
+                </div>
+
+                <div class="m-b-md">
+                    Lorem ipsum dolor set?
                 </div>
 
                 <div class="links">
