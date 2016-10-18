@@ -84,6 +84,8 @@
                 <div class="links">
                     <p>Coming soon!</p>
                 </div>
+
+                <!--
                 <hr />
                 <div id="topic-post">
 
@@ -120,6 +122,7 @@
 
                 <div>
             </div>
+            -->
         </div>
     </body>
 </html>
